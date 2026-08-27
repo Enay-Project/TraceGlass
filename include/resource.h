@@ -1,0 +1,6 @@
+#ifndef TRACEGLASS_RESOURCE_H
+#define TRACEGLASS_RESOURCE_H
+
+#define IDR_MANIFEST 1
+
+#endif
